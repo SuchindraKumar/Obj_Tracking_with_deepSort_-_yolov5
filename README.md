@@ -3,7 +3,7 @@
 This repo represents implimentation of YOLOv5 and DeepSort in Pytorch for object tracking
 
 
-![Demo](img.gif)
+[![Demo](img.gif)](https://github.com/SuchindraKumar/Obj_Tracking_with_deepSort_-_yolov5/blob/main/img.gif)
 
 
 
