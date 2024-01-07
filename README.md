@@ -17,9 +17,9 @@ DeepSort
 
 ### Create and activate an environment
 ```
-conda create -n tracking python=3.7 -y
+conda create -n objtracking python=3.7 -y
 
-conda activate tracking
+conda activate objtracking
 ```
 
 ### For Further Details Follow the Commands.txt File
