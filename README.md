@@ -24,3 +24,5 @@ conda activate objtracking
 ```
 
 ### For Further Details Follow the Commands.txt File
+
+https://github.com/SuchindraKumar/Obj_Tracking_with_deepSort_-_yolov5/blob/main/Commands.txt
