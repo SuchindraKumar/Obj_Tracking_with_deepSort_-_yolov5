@@ -4,7 +4,11 @@ This Repository contains the implementation of Object Tracking using YOLOv5 and 
 
 
 
+
+
 [![Demo](img.gif)](https://github.com/SuchindraKumar/Obj_Tracking_with_deepSort_-_yolov5/blob/main/img.gif)
+
+
 
 
 
