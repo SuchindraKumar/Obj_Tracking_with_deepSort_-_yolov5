@@ -1,6 +1,6 @@
 # Object-Tracking-PyTorch-YOLOv5-DeepSort
 
-This repository contains the implementation of object tracking using YOLOv5 and DeepSort in PyTorch. The combination of YOLOv5, a state-of-the-art object detection model, and DeepSort, a robust deep learning-based tracking algorithm, enables accurate and efficient tracking of objects in video streams.
+This Repository contains the implementation of Object Tracking using YOLOv5 and DeepSort in PyTorch. The combination of YOLOv5, a state-of-the-art Object Detection Model, and DeepSort, a robust deep learning-based tracking algorithm, enables accurate and efficient tracking of objects in video streams.
 
 
 
