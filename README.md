@@ -27,7 +27,7 @@ If you find this repository helpful, please consider citing the original YOLOv5 
 
 YOLOv5: YOLOv5 GitHub Repository:-https://github.com/ultralytics/yolov5
 
-DeepSort PyTorch: DeepSORT PyTorch GitHub Repository:-https:[//github.com/nwojke/deep_sort](https://github.com/ZQPei/deep_sort_pytorch)
+DeepSort PyTorch: DeepSORT PyTorch GitHub Repository:-https:-https://github.com/ZQPei/deep_sort_pytorch
 
 ### Acknowledgments
 
